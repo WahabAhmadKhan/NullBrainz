@@ -1,0 +1,54 @@
+{
+  "name": "nullbrain",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "npm": "6.14.4",
+    "node": "12.16.2"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.3",
+    "carousel": "0.0.3",
+    "firebase": "^7.24.0",
+    "firebase-tools": "^8.13.0",
+    "jquery": "^3.5.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-google-recaptcha": "^2.1.0",
+    "react-image-gallery": "^1.0.8",
+    "react-rangeslider": "^2.2.0",
+    "react-recaptcha-google": "^1.1.1",
+    "react-scripts": "3.4.3",
+    "react-slideshow-image": "^3.3.0",
+    "reactjs-captcha": "^1.3.1",
+    "reactstrap": "^8.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
