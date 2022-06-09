@@ -40,10 +40,9 @@
 			<ul class="gcc-list">
 				<li><img src="images/img1.png" alt=""><span class="gcc-txt">30+</span><span>Prestigious High-end Clients</span>
 				</li>
-				<li><img src="images/img2.png" alt=""><span class="gcc-txt">20+</span><span>Years of service</span>
+				<li><img src="images/img2.png" alt=""><span class="gcc-txt">10+</span><span>Years of service</span>
 				</li>
-				<li><img src="images/img3.png" alt=""><span class="gcc-txt">3500+</span><span>Employees</span>
-				</li>
+				
 				<li><img src="images/img4.png" alt=""><span class="gcc-txt">140+</span><span>Completed Projects</span>
 				</li>
 			</ul>
@@ -58,7 +57,7 @@
 	
 	<div class="grid1260 pdm115">
 		<div class="owl-carousel gcclogos">
-			<div class="item"> <img src="images/lg1.png" alt=""> </div>
+			<div class="item"> <img src="images/logo.png" alt=""> </div>
 			<div class="item"> <img src="images/lg2.png" alt=""> </div>
 			<div class="item"> <img src="images/lg3.png" alt=""> </div>
 			<div class="item"> <img src="images/lg4.png" alt=""> </div>
