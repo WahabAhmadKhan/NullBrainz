@@ -2,7 +2,7 @@
 	<div class="menu-toogle"><span></span><span></span><span></span></div>
 	<div class="menu-close"></div>
 	<div class="monalogo">
-		<a href="index.php"><img style="height: 37px" src="images/logo.png" /></a>
+		<a href="index.php"><img style="height: 37px" src="images/lg1.png" /></a>
 	</div>
 	<div class="mona-menu">
 		<ul>
@@ -20,7 +20,7 @@
 					<li><a href="team.php">Management</a></li>
 					<li><a href="missionVissionValue.php">Mission & Vision</a></li>
 					<!-- <li><a href="">Our History</a></li> -->
-					<!-- <li><a href="">Company Profile</a></li> -->
+					<li><a href="companiesProfile.php">Companies Profile</a></li>
 				</ul>
 			</li>
 			<li id="pro">
