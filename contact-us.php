@@ -51,7 +51,7 @@
 			</p>
 		</div>
 		<div class="gridbox33 in-block about-img">
-			<img src="images/map.png" alt="HASHMI GROUP OF COMPANIES">
+			<img src="images/map.PNG" alt="HASHMI GROUP OF COMPANIES">
 		</div>
 		<hr class="mrgn-tp hr-design" id="hr-hide"/>
         <div class="gridbox41 in-block mrgn-tp">
